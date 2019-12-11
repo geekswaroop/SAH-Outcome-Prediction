@@ -10,7 +10,7 @@ There are several grading scales available for SAH. The Glasgow Outcome Scale is
 
 
 
-![](/home/krishna/Coding/Intelligence/SAH-Prediction/Others/Glasgow-outcome-scale-GOS-and-Glasgow-outcome-scale-extended-GOSE.png)
+![](Others/Glasgow-outcome-scale-GOS-and-Glasgow-outcome-scale-extended-GOSE.png)
 
 ​														Fig 1. Glasgow Outcome Scale
 
