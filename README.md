@@ -16,7 +16,7 @@ There are several grading scales available for SAH. The Glasgow Outcome Scale is
 
 ![](Others/Glasgow-outcome-scale-GOS-and-Glasgow-outcome-scale-extended-GOSE.png)
 
-​														**Fig 1. Glasgow Outcome Scale**
+​<p style="text-align: center;">**Fig 1. Glasgow Outcome Scale**</p>														
 
 ### 2. Methods and Findings
 
